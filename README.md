@@ -62,8 +62,16 @@
 ![image](https://github.com/user-attachments/assets/c267395f-f19e-4101-ae76-9bbed4e6c488)
 
 - Utilitza webmin per instal·lar un joc de apt.
-- Utilitza webmin per instal·lar gimp de apt.
+ ![image](https://github.com/user-attachments/assets/866bd7cc-049f-41cb-ba7b-6d412d0a76e5)
+![image](https://github.com/user-attachments/assets/a3d350cd-2ab7-413f-bd9b-408dbb0c7370)
+
+- Utilitza webmin per instal·lar gimp de apt
+  ![image](https://github.com/user-attachments/assets/1836b0b8-0628-41dc-a2b5-747e52f240a1)
+![image](https://github.com/user-attachments/assets/2617f761-cd58-4528-8144-8d590dd5f068)
+
 - Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
+![image](https://github.com/user-attachments/assets/01bea73d-b629-4006-9661-9e1acc5caa30)
+![Uploading image.png…]()
 
 ## 4.- Serveis
 
