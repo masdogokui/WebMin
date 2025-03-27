@@ -22,9 +22,16 @@
 ![image](https://github.com/user-attachments/assets/36ea6e77-fb9a-4c33-85d5-e181f0ef08b5)
 
 ## Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
-![image](https://github.com/user-attachments/assets/1409a9ce-b6df-45b3-b7e9-9fc20c9c102d)
+![image](https://github.com/user-attachments/assets/427834ef-6bdf-4c2d-a5f0-ad4bf6fc4d14)
+![image](https://github.com/user-attachments/assets/5fab7ed5-d0b1-4062-a70b-1f9900420036)
+![image](https://github.com/user-attachments/assets/e46c00bb-639b-4fea-918d-876ccce32a95)
+
 
 ## L'usuari techno no podrà fer login després del dia 31-03-2025.
+![image](https://github.com/user-attachments/assets/99564a40-baa5-456b-b7f3-d6fc22ab3f09)
 
 ## Comproveu que els usuaris poden iniciar sessió.
+![image](https://github.com/user-attachments/assets/f3137af2-cc68-411a-9bb8-eaca405bdcb9)
+![image](https://github.com/user-attachments/assets/2ec0ac51-0767-43ee-90a8-ac4a5aa0e688)
+
 ## Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
