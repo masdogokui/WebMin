@@ -11,7 +11,9 @@
 
 
 ## Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
-![image](https://github.com/user-attachments/assets/ab68b7ab-b196-4e37-b0da-d3beb295ce21)
+![image](https://github.com/user-attachments/assets/6f6aaa9b-e837-47ac-ad66-d916ae2ca62f)
+![image](https://github.com/user-attachments/assets/4bc13bc5-3e8c-4f10-a2ba-d5b1548e8167)
+
 
 ## Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 ![image](https://github.com/user-attachments/assets/bf920e85-3ad0-427d-8844-cd42bc708052)
@@ -53,7 +55,12 @@
 ## 3.- Instal·lació de software
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
+  ![image](https://github.com/user-attachments/assets/e7eb8235-a107-4bd8-b525-1266797e790c)
+
 - Des de webmin actualitza un paquet.
+  ![image](https://github.com/user-attachments/assets/3ce7a5ed-ed9b-43bd-840b-39098a9d71b8)
+![image](https://github.com/user-attachments/assets/c267395f-f19e-4101-ae76-9bbed4e6c488)
+
 - Utilitza webmin per instal·lar un joc de apt.
 - Utilitza webmin per instal·lar gimp de apt.
 - Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
