@@ -35,3 +35,5 @@
 ![image](https://github.com/user-attachments/assets/2ec0ac51-0767-43ee-90a8-ac4a5aa0e688)
 
 ## Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
+![image](https://github.com/user-attachments/assets/ce4e7ac8-d525-4fa1-adfe-1c7d737fe104)
+
