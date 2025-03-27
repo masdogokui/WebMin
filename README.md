@@ -71,17 +71,35 @@
 
 - Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
 ![image](https://github.com/user-attachments/assets/01bea73d-b629-4006-9661-9e1acc5caa30)
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/d87aa613-35fd-40bb-850f-0be8a5555d60)
+
 
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
+  ![image](https://github.com/user-attachments/assets/46982741-de42-424d-b0b1-a08e6608b9c8)
+
 - Utilitza webmin per mostrar els serveis que estan actius.
+  ![image](https://github.com/user-attachments/assets/300cdf75-cf8b-4a23-9a58-7eece390b968)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache.
+  ![image](https://github.com/user-attachments/assets/0492411d-95b9-4e01-8f28-421ca910a4ef)
+
 - Utilitza webmin per aturar Apache.
+![image](https://github.com/user-attachments/assets/ea3c5249-5198-40ec-b71f-dd17022b6b42)
+
+
+  ![image](https://github.com/user-attachments/assets/f3cf3bf5-361e-4b50-a72a-b63fd1de4c3d)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache apagat.
-- Utilitza webmin per reiniciar Apache.
+![image](https://github.com/user-attachments/assets/c45356bf-e4e8-4345-9625-700eea0ab4d6)
+
+- Utilitza webmin per reiniciar Apache
+  ![image](https://github.com/user-attachments/assets/934cdc03-d92b-4887-97c5-074dcd37b598)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
+ ![image](https://github.com/user-attachments/assets/934cdc03-d92b-4887-97c5-074dcd37b598)
 
 ## 5.- Quotes de disc
 
