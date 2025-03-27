@@ -36,11 +36,19 @@
 
 ## Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
 ![image](https://github.com/user-attachments/assets/ce4e7ac8-d525-4fa1-adfe-1c7d737fe104)
+![image](https://github.com/user-attachments/assets/45c04cc8-f75c-4782-bf14-6b82e8016caa)
+
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
+  ![image](https://github.com/user-attachments/assets/1c958ad4-0321-44b7-a83b-0b0fa953f27f)
+
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
+![image](https://github.com/user-attachments/assets/2ed3ca42-296d-4962-8bd9-9d5261b42287)
+
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
+![image](https://github.com/user-attachments/assets/ae08ddd5-3196-4a6d-a807-680f1a6568e2)
+
   
 ## 3.- Instal·lació de software
 
