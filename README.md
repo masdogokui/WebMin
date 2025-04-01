@@ -125,7 +125,14 @@ sudo apt install quota quotatool
 
 ## 7.- Compartició
 
-- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
+- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura
+  ![image](https://github.com/user-attachments/assets/d1a57295-87e0-468e-8999-441ded5c04eb)
+![image](https://github.com/user-attachments/assets/1d92ca5d-dcbb-4159-b0b0-614ed8569a1d)
+![image](https://github.com/user-attachments/assets/cddf018d-adfd-4d6b-abf8-e37ec9bb0308)
+![image](https://github.com/user-attachments/assets/26ad28fb-d13d-4097-85f5-295ce8ee74b9)
+![image](https://github.com/user-attachments/assets/c0b37270-4592-44ae-9c96-d654a9bfcbfe)
+
+
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
 - Comprovar des de Windows que aquests recursos funcionen.
 
