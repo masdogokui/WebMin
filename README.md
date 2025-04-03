@@ -126,6 +126,7 @@ sudo apt install quota quotatool
 ## 7.- Compartició
 
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura
+![image](https://github.com/user-attachments/assets/814a527e-c0e4-4772-a501-aecd9ae9f1e8)
   ![image](https://github.com/user-attachments/assets/d1a57295-87e0-468e-8999-441ded5c04eb)
 ![image](https://github.com/user-attachments/assets/1d92ca5d-dcbb-4159-b0b0-614ed8569a1d)
 ![image](https://github.com/user-attachments/assets/cddf018d-adfd-4d6b-abf8-e37ec9bb0308)
@@ -150,7 +151,8 @@ sudo apt install quota quotatool
 ![image](https://github.com/user-attachments/assets/2a92fd62-d7ad-4a73-b344-d6769b192479)
 ![image](https://github.com/user-attachments/assets/979954ca-f4af-4308-a163-a35bd81f14ee)
 ![image](https://github.com/user-attachments/assets/db317c31-f1eb-419b-8f56-091e580f8b54)
-
-
+![image](https://github.com/user-attachments/assets/f19793c8-e316-485a-b41d-c21808e89bbd)
+![Captura desde 2025-04-03 12-31-25](https://github.com/user-attachments/assets/1eb2a364-a0ed-4129-9f99-59290a58a961)
+![Captura desde 2025-04-03 12-31-29](https://github.com/user-attachments/assets/44a0d10d-b558-4139-88fb-d45e03d79acc)
 
 
