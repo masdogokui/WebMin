@@ -107,16 +107,18 @@
 ![image](https://github.com/user-attachments/assets/02d17ace-25cc-4036-a9a3-2f08dddf45f2)
 ![image](https://github.com/user-attachments/assets/c5d541cb-5448-432e-ab8b-1c4361314c67)
 ![image](https://github.com/user-attachments/assets/6ed62dfd-70c7-4e76-8896-4518abaa9b28)
+![image](https://github.com/user-attachments/assets/ef337b66-c909-441b-8ba9-b77b0a618cab)
+![image](https://github.com/user-attachments/assets/00957074-946b-4b6a-b227-e3143984f9de)
+![image](https://github.com/user-attachments/assets/41788981-0315-4b89-b720-b1bd5583fef1)
 
 
 ## 6.- Còpies de seguretat
 
-- Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
-- Modifica alguns fitxers de /home.
-- Recupera la còpia de seguretat.
-- Comprova que els fitxers de /home són els correctes.
-- Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
-- Esborra la còpia de seguretat programada anteriorment.
+![image](https://github.com/user-attachments/assets/a7e8270d-fc43-4562-8ca8-152e92ce2a55)
+![image](https://github.com/user-attachments/assets/c7ce1290-e66e-49e0-af4c-e4883fff9a6f)
+![image](https://github.com/user-attachments/assets/18644c13-0817-4d95-86bd-669166f1e3d5)
+![image](https://github.com/user-attachments/assets/0ca5190d-7fe6-4cfa-b32b-86779b2b83a7)
+
 
 ## 7.- Compartició
 
