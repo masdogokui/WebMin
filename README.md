@@ -102,17 +102,12 @@
  ![image](https://github.com/user-attachments/assets/934cdc03-d92b-4887-97c5-074dcd37b598)
 
 ## 5.- Quotes de disc
+![image](https://github.com/user-attachments/assets/21bc5ef0-9afa-431c-aa54-4bef639b3329)
+![image](https://github.com/user-attachments/assets/32208d77-8c6a-42c3-9d07-89bfe40e23b2)
+![image](https://github.com/user-attachments/assets/02d17ace-25cc-4036-a9a3-2f08dddf45f2)
+![image](https://github.com/user-attachments/assets/c5d541cb-5448-432e-ab8b-1c4361314c67)
+![image](https://github.com/user-attachments/assets/6ed62dfd-70c7-4e76-8896-4518abaa9b28)
 
-Activa les quotes de disc pels usuaris amb la comanda: 
-
-```
-sudo apt install quota quotatool
-```
-
-- Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
-- Comprova que el límit de la quota funciona.
-- Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
-- Comprova que el límit de la quota funciona.
 
 ## 6.- Còpies de seguretat
 
